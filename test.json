@@ -1,0 +1,52 @@
+[
+    {
+        firetrucks": 1       
+    },
+    {
+        "firetrucks": 1
+    },
+    {
+        "id": 2,
+        "name": "Brandende personenauto",
+        "place": null,
+        "average_credits": 370,
+        "generated_by": "Brandweer, Kazerne",
+        "icons": [
+            "/images/fire_gruen.png",
+            "/images/fire_gelb.png",
+            "/images/fire_rot.png"
+        ],
+        "requirements": {
+            "firetrucks": 1
+        },
+        "chances": {},
+        "additional": {
+            "filter_id": "firehouse_missions"
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    },
+    {
+        "id": 3,
+        "name": "Brandende motorfiets",
+        "place": null,
+        "average_credits": 340,
+        "generated_by": "Brandweer, Kazerne",
+        "icons": [
+            "/images/fire_gruen.png",
+            "/images/fire_gelb.png",
+            "/images/fire_rot.png"
+        ],
+        "requirements": {
+            "firetrucks": 1
+        },
+        "chances": {},
+        "additional": {
+            "filter_id": "firehouse_missions"
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    }
+]
