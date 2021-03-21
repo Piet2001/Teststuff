@@ -2,7 +2,7 @@
     {
         "app": "DataToolMks",
         "version": "0.0.7",
-        "info": "-Bugfix voor niet updaten user-info\n-Opmaak van getallen aangepast.\n-Het is nu mogelijk om uitbreidingen te zien in het meldkamerscherm\n-Counters boven ziekenhuis lijsten\nStatus aan voertuigen toegevoegd"
+        "info": "-Bugfix voor niet updaten user-info\n-Opmaak van getallen aangepast.\n-Het is nu mogelijk om uitbreidingen te zien in het meldkamerscherm\n-Counters boven ziekenhuis lijsten\n-Status aan voertuigen toegevoegd"
     }
 ]
 
