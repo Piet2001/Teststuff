@@ -13,6 +13,15 @@
         "one": "Noodhulpeenheid",
         "more": "Noodhulpeenheden"
       }
+    },
+    "additional": {
+      "max_possible_prisoners": "Maximaal aantal gevangenen",
+      "possible_patient": "Maximaal aantal patiënten",
+      "possible_patient_min": "Minimaal aantal patiënten"
+    },
+    "chances": {
+      "patient_transport": "Vervoer kans voor patiënt",
+      "nef": "Kans dat het MMT nodig is"
     }
   }
 ]
