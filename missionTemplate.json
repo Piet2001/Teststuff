@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Tankautospuit",
+    "place": "requirements",
+    "key": "firetrucks"
+  },
+  {
+    "name": "Redvoertuig",
+    "place": "requirements",
+    "key": "platform_trucks",
+    "chance": {
+      "place": "chances",
+      "key": "platform_trucks"
+    }
+  },
+  {
+    "name": "Noodhulpeenheid",
+    "place": "requirements",
+    "key": "police_cars"
+  }
+]
