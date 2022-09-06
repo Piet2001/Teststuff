@@ -1,9 +1,18 @@
 [
   {
     "requirements": {
-      "firetrucks": "Tankautospuit",
-      "platform_trucks": "Redvoertuig",
-      "police_cars": "Noodhulpeenheid"
+      "firetrucks": {
+        "one": "Tankautospuit",
+        "more": "Tankautospuiten"
+      },
+      "platform_trucks": {
+        "one": "Redvoertuig",
+        "more": "Redvoertuigen"
+      },
+      "police_cars": {
+        "one": "Noodhulpeenheid",
+        "more": "Noodhulpeenheden"
+      }
     }
   }
 ]
